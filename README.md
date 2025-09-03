@@ -1,4 +1,4 @@
-# Lab01 - Sumador - Restador de 4 bits
+# Lab01 - Sumador/Restador de 4 bits
 
 # Integrantes
 
@@ -16,7 +16,7 @@ Indice:
 
 ## Documentación del diseño implementado
 
-### 1. Sumador - Restador
+### 1. Sumador/Restador
 
 #### 1.1 Descripción
 
@@ -25,7 +25,7 @@ Indice:
 
 ## Simulaciones 
 
-### 1. Simulación del sumador - restador
+### 1. Simulación del sumador/restador
 
 #### 1.1 Descripción
 
