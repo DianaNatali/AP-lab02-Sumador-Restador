@@ -1,4 +1,4 @@
-# Lab01 - Sumador/Restador de 4 bits
+# Lab02 - Sumador/Restador de 4 bits
 
 # Integrantes
 
